@@ -1,0 +1,3 @@
+[submodule "whitsonbuck/themes/hugo-theme-console"]
+	path = whitsonbuck/themes/hugo-theme-console
+	url = https://github.com/mrmierzejewski/hugo-theme-console.git
