@@ -1,5 +1,4 @@
 baseURL = 'https://whitson-buck.github.io/'
-relativeURLs = true
 languageCode = 'en-us'
 title = 'whitsons page'
 theme = 'hugo-theme-console'
