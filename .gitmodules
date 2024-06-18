@@ -1,6 +1,3 @@
-[submodule "whitsonbuck/themes/hugo-theme-console"]
-	path = whitsonbuck/themes/hugo-theme-console
-	url = https://github.com/mrmierzejewski/hugo-theme-console.git
 [submodule "whitsonbuck/publicone"]
 	path = whitsonbuck/publicone
 	url = https://github.com/whitson-buck/whitson-buck.github.io.git
